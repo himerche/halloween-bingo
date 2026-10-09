@@ -1,0 +1,29 @@
+{
+  "name": "Halloween Bingo",
+  "short_name": "Hallo Bingo",
+  "description": "Halloween bingo caller for the classroom, Pre-A1–C2 · Cantador de bingo de Halloween para clase",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#140f24",
+  "theme_color": "#140f24",
+  "lang": "en",
+  "icons": [
+    {
+      "src": "icono-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icono-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "icono-512-maskable.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
